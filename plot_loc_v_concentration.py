@@ -59,19 +59,24 @@ y_pb = [ data_avg[1]['Pb'], data_avg[2]['Pb'], data_avg[3]['Pb'], data_avg[4]['P
 fig, ax = plt.subplots()
 fig.canvas.draw()
 
+
+# Set auxiliary plot details, ex: title, labels, etc.
+# http://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
+title_size = 20
+label_size = title_size * 0.75
+
+x_labels = ['Ore', '', 'Settling', '', 'Chat Piles', '', 'Wetland Cores', '', 'Floodplains']
+ax.set_xticklabels(x_labels)
+
+
+plt.legend()
+plt.xlabel('Location', fontsize=label_size)
+plt.ylabel('Concentration', fontsize=label_size)
+plt.title('Location v. Heavy Metal Concentrations', fontsize=title_size)
+
 # Plot
 plt.plot(x, y_zn, label='[Zn]')
 plt.plot(x, y_cd, label='[Cd]')
 plt.plot(x, y_pb, label='[Pb]')
-
-# Set auxiliary plot details, ex: title, labels, etc.
-x_labels = ['Ore', '', 'Settling', '', 'Chat Piles', '', 'Wetland Cores', '', 'Floodplains']
-ax.set_xticklabels(x_labels)
-
-plt.legend()
-plt.xlabel('Location')
-plt.ylabel('Concentration')
-plt.title('Location v. Heavy Metal Concentrations')
-
 # Show plot
 plt.show()
