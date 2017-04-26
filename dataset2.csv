@@ -1,0 +1,209 @@
+,Type,Name,Depth,Zn,Cd,Pb,Zn abs error,Cd abs error,Pb abs error
+4,Floodplain Surface,T7C1,1,9599,47.5,462,0,2.1,4.1
+4,Floodplain Trench,T7C1,3.5,5329,30.4,293.5,13,1.8,2.8
+4,Floodplain Trench,T7C1,7.5,8623,43.2,282.7,17,1.9,2.7
+4,Floodplain Trench,T7C1,12.5,6280,32.5,273.4,14,1.8,2.6
+4,Floodplain Trench,T7C1,16.5,5612,27.4,285.2,14,1.7,2.9
+4,Floodplain Trench,T9C4,0.75,7116,33.7,290.1,16,1.9,2.8
+4,Floodplain Trench,T9C4,3.25,6736,34.4,311.7,15,1.9,2.9
+4,Floodplain Trench,T9C4,7.5,5770,26.1,348,15,1.7,3.2
+4,Floodplain Trench,T9C4,11,6090,24.2,428.6,16,1.7,3.8
+4,Floodplain Trench,T10C5,3,4384,29.8,257.8,12,1.8,2.5
+4,Floodplain Trench,T10C5,8,6559,41.6,495.6,15,1.9,3.6
+4,Floodplain Trench,T10C5,12,7056,47.2,691.9,15,2,4.1
+4,Floodplain Trench,T10C5,16,10730,69.7,1575,20,2.3,6
+4,Floodplain Surface,T13C8,1,6211,32.2,296.8,15,1.9,2.8
+4,Floodplain Trench,T13C8,4.5,7374,40.8,355.2,16,1.9,3.1
+4,Floodplain Trench,T13C8,9.5,6421,49.5,369.9,14,2,2.8
+4,Floodplain Trench,T13C8,13.5,5363,33.4,328.9,12,1.8,2.6
+4,Floodplain Trench,T14C8,0.75,1001,0,105.5,5,-3.4,1.5
+4,Floodplain Trench,T14C8,3.5,526,0,57,3.6,0,1.2
+4,Floodplain Trench,T14C8,7.75,346.3,0,29.8,2.9,-1.8,0.9
+4,Floodplain Trench,T14C8,12.5,187.9,0,21,2.2,0,0.9
+4,Floodplain Surface,T14C10,0.5,6405,45,536.6,14,2.1,3.6
+4,Floodplain Trench,T14C10,1.5,5149,36.6,386,12,1.8,2.9
+4,Floodplain Trench,T14C10,3.75,5736,41.2,477.4,13,2,3.3
+4,Floodplain Trench,T14C10,6.5,5576,38.4,320.8,13,1.9,2.8
+4,Floodplain Trench,T14C10,10,4675,21.3,282.6,12,1.6,2.6
+5,Channel Core,Neo2ATC,16,7.137,0.0952,0.3192,2.4,2.4,2.7
+5,Channel Core,Neo2ATC,30,9.798,0.0238,0.384,1.9,1.9,3.7
+5,Channel Core,Neo2TC,2,5.796,0.0203,0.2102,1.6,1.6,2.3
+5,Channel Core,Neo2TC,6,6.984,0.0336,0.2479,1.8,1.8,2.7
+5,Channel Core,Neo2TC,8,8.369,0.0343,0.2978,1.8,1.8,2.6
+5,Channel Core,Neo2TC,10,7.955,0.0395,0.2766,1.9,1.9,2.9
+5,Channel Core,Neo2TC,13,8.713,0.0311,0.3034,2,2,2.8
+5,Channel Core,Neo2TC,16,9.094,0.0358,0.3389,2,2,3
+5,Channel Core,Neo2TC,19,9.367,0.0258,0.3923,2,2,3.3
+5,Channel Core,Neo2TC,22,7.82,0.0251,0.3218,1.9,1.9,3.6
+5,Channel Core,Neo2TC,4,7.301,0.0198,0.2626,1.9,1.9,3.2
+5,Channel Core,Neo2TC,25,8.919,0.028,0.3088,1.9,1.9,3.3
+5,Channel Core,Neo2TC,30,11.27,0.0335,0.4456,2.1,2.1,4.1
+5,Channel Core,Neo2TC,33,9.89,0.0479,0.347,2.2,2.2,3.2
+5,Channel Core,Neo2TC,36,6.665,0.1218,0.292,2.6,2.6,2.5
+5,Channel Core,Neo2TC,39,5.9,0.0329,0.311,1.9,1.9,2.6
+5,Channel Core,Neo2TC,42,7.463,0.0333,0.3745,1.8,1.8,2.9
+5,Channel Core,Neo2b,2,6.414,0.03,0.2112,2,2,2.3
+5,Channel Core,Neo2b,4,6.63,0.0317,0.2192,2.2,2.2,2.4
+5,Channel Core,Neo2b,6,6.081,0.0286,0.2202,2,2,2.4
+5,Channel Core,Neo2b,8,5.916,0.0331,0.2207,2,2,2.3
+5,Channel Core,Neo2b,10,6.526,0.0238,0.2218,2,2,2.4
+5,Channel Core,Neo2b,13,7.876,0.0272,0.2413,2.1,2.1,2.6
+5,Channel Core,Neo2b,16,8.194,0.0296,0.2788,2.1,2.1,2.9
+5,Channel Core,Neo2b,19,7.591,0.0361,0.2625,2.2,2.2,2.7
+5,Channel Core,Neo2b,22,7.642,0.0437,0.2573,2.2,2.2,2.8
+5,Channel Core,Neo2b,26,8.207,0.0259,0.3284,2,2,3.2
+5,Channel Core,Neo2b,30,7.603,0.0315,0.3884,2.2,2.2,3.5
+5,Channel Core,Neo2b,34,8.425,0.0297,0.3643,2.1,2.1,3.4
+5,Channel Core,Neo2b,38,11.3,0.0409,0.4105,2.2,2.2,3.8
+5,Channel Core,Neo2b,42,7.988,0.1132,0.3437,2.8,2.8,2.8
+5,Channel Core,Neo2b,46,6.428,0.055,0.3068,2.2,2.2,2.6
+5,Channel Core,Neo4,2,0.106,0,0.0178,0,0,0.9
+5,Channel Core,Neo4,4,0.0902,0,0.0201,0,0,0.9
+5,Channel Core,Neo4,6,0.0849,0,0.0183,0,0,0.9
+5,Channel Core,Neo4,8,0.0931,0,0.0207,0,0,0.9
+5,Channel Core,Neo4,10,0.1001,0,0.0198,0,0,0.9
+5,Channel Core,Neo4,13,0.1271,0,0.0187,0,0,0.9
+5,Channel Core,Neo4,16,0.1199,0,0.0188,0,0,0.9
+5,Channel Core,Neo4,19,0.1219,0,0.0213,0,0,0.9
+5,Channel Core,Neo4,21,0.1356,0,0.0205,0,0,0.9
+5,Channel Core,Neo4,24,0.1901,0,0.018,0,0,0.8
+5,Channel Core,Neo4,28,0.199,0,0.019,0,0,0.9
+5,Channel Core,Neo4,32,0.1332,0,0.023,0,0,0.9
+5,Channel Core,Neo4,36,0.125,0,0.0239,0,0,0.9
+5,Channel Core,Neo4,40,0.1408,0,0.0297,0,0,1
+5,Channel Core,Neo4,45,0.1542,0,0.0272,0,0,1
+5,Channel Core,Neo4,50,0.127,0,0.0246,0,0,1
+5,Channel Core,Neo5,2,0.2105,0,0.0253,0,0,1
+5,Channel Core,Neo5,4,0.2204,0,0.0259,0,0,1
+5,Channel Core,Neo5,6,0.1785,0,0.0246,0,0,1
+5,Channel Core,Neo5,8,0.1637,0,0.0226,0,0,1
+5,Channel Core,Neo5,10,0.2071,0,0.0268,0,0,1
+5,Channel Core,Neo5,13,0.2629,0,0.0247,0,0,1
+5,Channel Core,Neo5,16,0.1765,0,0.0253,0,0,1
+5,Channel Core,Neo5,19,0.2335,0,0.0257,0,0,1
+5,Channel Core,Neo5,23,0.2338,0,0.0255,0,0,1
+5,Channel Core,Neo5,27,0.2535,0,0.0273,0,0,1
+5,Channel Core,Neo5,31,0.1517,0,0.0227,0,0,1
+5,Channel Core,Neo5,35,0.1361,0,0.0211,0,0,0.9
+5,Channel Core,Neo5,39,0.1798,0,0.0231,0,0,1
+5,Channel Core,Neo5,43,0.2128,0,0.0238,0,0,1
+5,Channel Core,Neo6,2,0.1774,0,0.0212,0,0,0.9
+5,Channel Core,Neo6,4,0.1897,0,0.0222,0,0,1
+5,Channel Core,Neo6,6,0.2257,0,0.0248,0,0,1
+5,Channel Core,Neo6,8,0.2318,0,0.0257,0,0,1
+5,Channel Core,Neo6,10,0.1912,0,0.0245,0,0,1
+5,Channel Core,Neo6,13,0.123,0,0.0224,0,0,1
+5,Channel Core,Neo6,16,0.0991,0,0.0218,0,0,1
+5,Channel Core,Neo6,19,0.1226,0,0.0227,0,0,1
+5,Channel Core,Neo6,22,0.149,0,0.0244,0,0,1
+5,Channel Core,Neo6,26,0.176,0,0.0297,0,0,1
+5,Channel Core,Neo6,30,0.1447,0,0.0228,0,0,1
+5,Channel Core,Neo6,34,0.1412,0,0.0246,0,0,1
+5,Channel Core,Neo6,38,0.1897,0,0.0264,0,0,1
+5,Channel Core,Neo6,42,0.2203,0,0.0271,0,0,1
+5,Channel Core,Neo7,2,0.1214,0,0.0224,0,0,1
+5,Channel Core,Neo7,4,0.1231,0,0.0207,0,0,0.9
+5,Channel Core,Neo7,6,0.1748,0,0.0226,0,0,0.9
+5,Channel Core,Neo7,8,0.2279,0,0.0244,0,0,1
+5,Channel Core,Neo7,10,0.1744,0,0.0224,0,0,1
+5,Channel Core,Neo7,13,0.2264,0,0.022,0,0,1
+5,Channel Core,Neo7,16,0.1737,0,0.0219,0,0,1
+5,Channel Core,Neo7,19,0.1781,0,0.0203,0,0,0.9
+5,Channel Core,Neo7,22,0.1352,0,0.0208,0,0,0.9
+5,Channel Core,Neo7,26,0.152,0,0.0186,0,0,0.9
+5,Channel Core,Neo7,30,0.1343,0,0.0193,0,0,0.9
+5,Channel Core,Neo7,34,0.1397,0,0.0175,0,0,0.9
+5,Channel Core,Neo7,38,0.1062,0,0.0184,0,0,0.9
+5,Channel Core,Neo7,42,0.1255,0,0.0203,0,0,0.9
+5,Channel Core,Neo7,46,0.0998,0,0.021,0,0,0.9
+3,Wetland Core,Wetland Core,1,95450,270.6,268.7,100,4.8,1.6
+3,Wetland Core,Wetland Core,3.5,213400,253.1,1257,200,6.6,7
+3,Wetland Core,Wetland Core,7.5,85130,350.2,12080,90,5.9,30
+3,Wetland Core,Wetland Core,12.5,68850,313.5,9933,80,5.2,23
+3,Wetland Core,Wetland Core,16.5,53430,233,4994,60,4.1,14
+3,Wetland Core,Wetland Core,0.75,55880,231.2,5191,60,4.1,15
+3,Wetland Core,Wetland Core,3.25,68720,273.8,10600,80,5.2,20
+3,Wetland Core,Wetland Core,7.5,78830,301.9,14120,90,5.3,30
+3,Wetland Core,Wetland Core,11,70320,273.6,14070,80,5.1,30
+3,Wetland Core,Wetland Core,3,68630,267.7,14890,80,5,30
+3,Wetland Core,Wetland Core,8,70680,248.2,11330,80,4.9,20
+3,Wetland Core,Wetland Core,12,68010,239.6,10620,80,4.8,20
+3,Wetland Core,Wetland Core,16,64230,220.6,7225,70,4.4,18
+3,Wetland Core,Wetland Core,,69380,219.3,6893,80,4.6,18
+3,Wetland Core,Wetland Core,1,60950,196.6,6613,70,4.1,17
+3,Wetland Core,Wetland Core,4.5,49250,216.3,6108,60,4.2,16
+3,Wetland Core,Wetland Core,9.5,46730,208.4,5292,50,4,14
+3,Wetland Core,Wetland Core,13.5,28430,87.2,2295,40,2.6,8
+3,Wetland Core,Wetland Core,0.75,20310,61.6,1698,30,2.4,7
+3,Wetland Core,Wetland Core,3.5,28340,117.7,3017,40,2.9,9
+3,Wetland Core,Wetland Core,7.75,9776,31.4,804,17,1.9,4.2
+3,Wetland Core,Wetland Core,12.5,2174,6.9,268.3,7,1.3,2.4
+3,Wetland Core,Wetland Core,0.5,1191,4.9,152.2,6,1.2,1.9
+3,Wetland Core,Wetland Core,1.5,887.9,0,119.1,3.7,0,1.4
+3,Wetland Core,Wetland Core,2.25,506,0,70.5,3.7,0,1.4
+3,Wetland Core,Wetland Core,3.75,357.8,0,48.1,3.1,-1.5,1.2
+3,Wetland Core,Wetland Core,6.5,351.3,0,49.4,3,0,1.2
+3,Wetland Core,Wetland Core,10,444.7,0,57.6,3.4,0,1.2
+4,Floodplain Trench,Neo3 trench1A,,5644,17.3,242.9,14,1.6,2.6
+4,Floodplain Trench,Neo3 trench1B,,8108,29.1,333.7,18,1.8,3.3
+4,Floodplain Trench,Neo3 trench1C,,5917,37.7,310.5,13,1.9,2.6
+4,Floodplain Trench,TC10 sp1,10,6150,39.7,590.8,13,1.9,3.6
+4,Floodplain Trench,TC10 sp1,15,6282,36.4,582.5,13,2,3.6
+4,Floodplain Trench,TC10 sp1,20,7325,50.7,574.9,15,2,3.6
+4,Floodplain Trench,TC10 sp1,24.5,9797,75.4,831.9,18,2.2,4.4
+4,Floodplain Trench,TC10 sp1,27.5,7302,40.7,557.1,15,2,3.6
+4,Floodplain Trench,TC10 sp1,25,9451,69.4,772,17,2.3,4.3
+4,Floodplain Trench,TC10 sp1,30,9385,49.1,745.7,17,2,4.2
+4,Floodplain Trench,TC10 sp1,35,19840,77.9,516.5,40,3.5,5.5
+4,Floodplain Trench,TC10 sp1,35,6746,43.7,549.2,14,2.1,3.4
+4,Floodplain Trench,TC10 sp1,5,6912,53,534,14,2.2,3.4
+4,Floodplain Trench,sp1,27.5,3487,29.9,268.7,10,1.9,2.4
+4,Floodplain Trench,sp1,35,7777,52.5,591.3,16,2.3,3.7
+4,Floodplain Trench,sp1,35,16480,63.9,305.4,40,3.9,4.4
+4,Floodplain Trench,sp3,7.5,7344,38.8,324.2,16,2,3
+4,Floodplain Trench,sp3,26,8477,59.1,409.7,18,2.3,3.5
+4,Floodplain Trench,sp3,35,16360,53.3,341.9,30,2.6,3.9
+4,Floodplain Trench,sp3,35,5977,18.4,832.8,14,1.7,4.5
+4,Floodplain Trench,sp3,53,5132,13.5,486.4,12,1.5,3.3
+4,Floodplain Trench,sp4,2.5,9953,57.2,1363,18,2.4,6
+4,Floodplain Trench,sp4,33.5,9919,45.1,1288,17,2.1,5
+4,Floodplain Trench,sp4,43.5,5394,24.3,1121,12,1.6,5
+4,Floodplain Trench,sp4,43.5,10420,41.6,1744,20,2.1,6
+4,Floodplain Trench,sp4,52.5,15780,161.3,2031,20,3.1,7
+4,Floodplain Trench,sp4,30,8626,37.6,1155,16,1.9,5
+4,Floodplain Trench,sp4,60,29070,167.9,1921,40,3.3,7
+1,Historic Samples,TCTRI_37_2079,0,19270,116,205000,50,11,300
+1,Historic Samples,TCTRI_38_2080,0,54060,193.1,0,60,5.9,0
+1,Historic Samples,TCTRI_39_2081,0,66.8,0,7.5,1.7,0,0.6
+1,Historic Samples,TCTRI_40_2082,0,111600,651.5,0,100,9.4,0
+1,Historic Samples,TCTRI_41_2083,0,43970,141.8,0,50,5.2,0
+1,Historic Samples,TRI-37 2079B,0,410300,3069,0,400,38,0
+4,Floodplain Surface,A1,,30,4.4,5.4,30,4.4,5.4
+1,Floodplain Trench,A2,,30,4.5,5.4,30,4.5,5.4
+1,Floodplain Trench,B1,,15,2.7,4.6,15,2.7,4.6
+1,Floodplain Trench,B2,,15,2.8,4.6,15,2.8,4.6
+1,Floodplain Trench,C1,,17,3.1,6,17,3.1,6
+1,Floodplain Trench,C2,,17,3.1,6,17,3.1,6
+1,Floodplain Trench,D1,,14,2.9,4.6,14,2.9,4.6
+1,Floodplain Trench,D2,,14,3.2,4.5,14,3.2,4.5
+1,Floodplain Trench,E1,,30,5.3,8,30,5.3,8
+1,Floodplain Trench,E2,,30,5.4,8,30,5.4,8
+1,Floodplain Trench,F1,,40,4.7,7,40,4.7,7
+1,Floodplain Trench,F2,,40,4.5,7,40,4.5,7
+4,Floodplain Surface,Trench3A1,,6244,30,237.7,17,3.1,2.8
+1,Floodplain Trench,Trench3A2,,6142,29.6,231.9,17,2.9,2.8
+1,Floodplain Trench,Trench3B1,,0.5,3,0.7,24,3.4,4.1
+1,Floodplain Trench,Trench3C1,,6062,54.8,305.5,16,3.4,3
+1,Floodplain Trench,Trench3C2,,6097,62.1,303.8,16,3.6,3
+2,Chat,C4 ADM 1,,6104.0868,28.8398,206.4511,0,3.5,2.6
+2,Chat,C14 ADM3,,4701.7605,34.4866,204.834,110.73,0,28.77
+2,Chat,C14 ADM1,,5143.5231,27.7536,203.431,195,0,35
+4,Mobilized Chat,S101 >#5 (L1),,106.3,0,5.98,0.0005,-0.00032,0.00013
+4,Mobilized Chat,S101-107 <#230,,1262,5.32,48.17,0.003,0.00033,0.00044
+4,Mobilized Chat,S101-107 >#120,,1407,11.85,30.4,0.002,0.00034,0.00029
+4,Mobilized Chat,S101-107 >#230,,1021,6.72,36.95,0.002,0.00034,0.00035
+4,Mobilized Chat,S104 >#10 (L2),,250,0.69,19.07,0.0008,0.00015,0.00022
+4,Mobilized Chat,S104 >#18 (L2),,768.9,3.87,17.86,0.0016,0.00022,0.00021
+4,Mobilized Chat,S104 >#35,,2076,11.82,62.35,0.003,0.00031,0.00042
+4,Mobilized Chat,S104 >#5,,747.4,3.99,4.47,0.0015,0.0002,0.00008
+4,Mobilized Chat,S104 >#60,,2464,14.01,30.95,0.004,0.00035,0.00027
